@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/952697202269110372/966330125236989952/Logo-Rund.png" height="175px"/></a>
+<a href="#"><img width="100%" height="250px" src="https://cdn.discordapp.com/attachments/952697202269110372/966330125236989952/Logo-Rund.png" height="250px<"/></a>
 
 # Hey du!
 
@@ -19,5 +19,5 @@ Aktuell konzentrieren wir uns auf ...
 ### Möchtest du mitwirken?
 Du hast Interesse am Projekt mitzuwirken? Super! In unserem [Forum](https://oneliferp.net/forum) oder in unserem [Discord](https://oneliferp.net/discord) kannst du jederzeit Verbesserungsvorschläge oder Feedbacks abgegeben, wir werden diese dann anschauen, verwerten und ggf. auch anpassen & übernehmen. Dir ist das zu wenig? Checke gerne unsere aktuellen Bewerbungsphasen ab, vielleicht bist du Teamneuling!
 
-### Links
+<!---### Links
 [![Community](https://cdn.discordapp.com/attachments/952697202269110372/966330125236989952/Logo-Rund.png)](https://oneliferp.net/)
