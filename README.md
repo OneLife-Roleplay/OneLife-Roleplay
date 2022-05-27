@@ -12,9 +12,9 @@ Da es ja bis hier her geschafft hast, vermuten wir, dass du entweder neugierg wa
 ### Aktuelle Projekte
 Da der Server ja noch im Aufbau ist, arbeiten wir an einigen Projekten. Wir arbeiten mit Hochturen und mit Liebe bis zum Letzten Detail an diesem Projekt.
 Aktuell konzentrieren wir uns auf ...
-- den <p><span style="color:#00ccff">**Framework**</span></p> - Unser Framework ist ESX, wir werden diesen aber erweitern und verbessern um mehrere Möglichkeiten einzubauen,
-- das <p><span style="color:#00ccff">**Front-End**</span></p> - Durch ein modernes und cleanes Design ermöglichen wir ein wirklich dezentes und einheitliches Spielen,
-- *und* die <p><span style="color:#00ccff">**Vehicles**</span></p> - Unsere Fahr-, Flug- & Wasserfahr-zeuge sind auf eine realiste Physik und Mechanik angepasst. Einige Fahrzeuge sind selbstgebaut.
+- den <p><span style="color:#00ccff">**Framework**</span> - Unser Framework ist ESX, wir werden diesen aber erweitern und verbessern um mehrere Möglichkeiten einzubauen,
+- das **Front-End** - Durch ein modernes und cleanes Design ermöglichen wir ein wirklich dezentes und einheitliches Spielen,
+- *und* die **Vehicles** - Unsere Fahr-, Flug- & Wasserfahr-zeuge sind auf eine realiste Physik und Mechanik angepasst. Einige Fahrzeuge sind selbstgebaut.
 
 ### Möchtest du mitwirken?
 Du hast Interesse am Projekt mitzuwirken? Super! In unserem [Forum](https://oneliferp.net/forum) oder in unserem [Discord](https://oneliferp.net/discord) kannst du jederzeit Verbesserungsvorschläge oder Feedbacks abgegeben, wir werden diese dann anschauen, verwerten und ggf. auch anpassen & übernehmen. Dir ist das zu wenig? Checke gerne unsere aktuellen Bewerbungsphasen ab, vielleicht bist du Teamneuling!
