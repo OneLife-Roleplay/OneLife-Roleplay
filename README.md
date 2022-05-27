@@ -12,7 +12,7 @@ Da es ja bis hier her geschafft hast, vermuten wir, dass du entweder neugierg wa
 ### Aktuelle Projekte
 Da der Server ja noch im Aufbau ist, arbeiten wir an einigen Projekten. Wir arbeiten mit Hochturen und mit Liebe bis zum Letzten Detail an diesem Projekt.
 Aktuell konzentrieren wir uns auf ...
-- den <p><span style="color:#00ccff">**Framework**</span> - Unser Framework ist ESX, wir werden diesen aber erweitern und verbessern um mehrere Möglichkeiten einzubauen,
+- den <span style="color:#00ccff">**Framework**</span> - Unser Framework ist ESX, wir werden diesen aber erweitern und verbessern um mehrere Möglichkeiten einzubauen,
 - das **Front-End** - Durch ein modernes und cleanes Design ermöglichen wir ein wirklich dezentes und einheitliches Spielen,
 - *und* die **Vehicles** - Unsere Fahr-, Flug- & Wasserfahr-zeuge sind auf eine realiste Physik und Mechanik angepasst. Einige Fahrzeuge sind selbstgebaut.
 
